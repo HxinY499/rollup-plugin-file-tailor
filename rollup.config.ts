@@ -17,12 +17,10 @@ export default defineConfig({
       file: pkg.main,
       exports: 'named',
       footer: 'module.exports = Object.assign(exports.default, exports);',
-      sourcemap: true,
     },
     {
       format: 'es',
       file: pkg.module,
-      sourcemap: true,
     },
   ],
   plugins: [
