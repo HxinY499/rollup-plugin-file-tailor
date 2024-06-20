@@ -17,6 +17,7 @@
   ],
   "scripts": {
     "test": "cd ./test && vitest",
+    "prepublishOnly": "pnpm build",
     "build": "rollup -c --configPlugin typescript"
   },
   "keywords": [
