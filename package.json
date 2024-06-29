@@ -5,6 +5,7 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/types/index.d.ts",
+  "homepage": "https://github.com/HxinY499/rollup-plugin-file-tailor",
   "exports": {
     ".": {
       "types": "./dist/types/index.d.ts",
