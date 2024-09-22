@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-file-tailor",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "在rollup构建结束后，输出文件前，增加或删除文件",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
